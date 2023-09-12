@@ -26,7 +26,7 @@ REQUISITOS BÁSICOS e TUTORIAL:
 -
 
 - 1- Nessa página (GitHub) faça o download dos arquivos em ZIP (Pressione o botão "CODE")
-- 2- Após a descopactação dos arquivos, inicie sua "IDE" e selecione a pasta descompactada
+- 2- Após a descompactação dos arquivos, inicie sua "IDE" e selecione a pasta descompactada
 - 3- Execute o arquivo "FIELLI"
 - 4- Divirta-se :D
 
