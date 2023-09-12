@@ -10,7 +10,7 @@ Integrantes do projeto:
 Ana Julia Figueredo Bernardo,
 Anna Beatriz Batista Ramos,
 Eloise Sophia Lamenha Lins,
-Murilo Goncalves de Lucena (Ilmoru),
+Murilo Goncalves de Lucena (Ilmoru) e
 Paula Beatriz Lucas Oliveira.
 
 
