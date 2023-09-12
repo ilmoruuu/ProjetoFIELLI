@@ -3,7 +3,7 @@
 "FIELLI" é fruto da vivência da disciplina de PROGRAMAÇÃO I ministrada pelo professor Adauto Trigueiro Almeida Filho, no curso de Bacharelado em Engenharia de Software pela Universidade de Pernambuco (UPE)
 
 
-O jogo tem como únicas finalidades a construção aptidativa do processo criativo dentro da programação, e, a fins avaliativos acerca do 1° Semestre do curso(2023.1).
+O jogo tem como únicas finalidades a construção aptidativa do processo criativo dentro da programação, e, a fins avaliativos acerca do 1° Semestre do curso (2023.1).
 
 
 Integrantes do projeto:
