@@ -18,7 +18,7 @@ REQUISITOS BÁSICOS e TUTORIAL:
 -
 
 - Python 3.10 (Ou superiores)
-- IDE (Integrated Development Environment), de preferência "PyCharm" ou Visual Code Studio
+- IDE (Integrated Development Environment), de preferência "PyCharm" ou "Visual Code Studio"
 - É necessária a instalação da biblioteca (extensão) chamada "Pygame"
 
 
