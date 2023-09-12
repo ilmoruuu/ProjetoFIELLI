@@ -38,7 +38,11 @@ TODOS DIREITOS RESERVADOS A CONTEÚDOS DE TERCEIROS
 AGRADECIMENTOS
 -
 
-Obrigado!
-Eu existo
+FIELLI apesar de ser um jogo em estados modestos, ele é o primeiro passo de um sonho que tenho desde criança, criar coisas, especificamente jogos.
+Agradeço o empenho e cooperação de toda a equipe e todo suporte e supervisão do Docente. Obrigado a todos!
 
-[Ilmoru]
+
+
+Por "Ilmoru"
+
+:3
