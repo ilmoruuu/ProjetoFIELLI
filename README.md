@@ -20,8 +20,7 @@ REQUISITOS BÁSICOS e TUTORIAL:
 - Python 3.10 (Ou superiores)
 - É necessária a instalação da biblioteca (extensão) chamada "Pygame"
 
-
-•Para a execução do jogo siga os seguintes passos (Tendo vista já possuir os requisitos básicos):
+Para a execução do jogo siga os seguintes passos (Tendo vista já possuir os requisitos básicos):
 -
 
 - 1- Nessa página (GitHub) faça o download dos arquivos em ZIP (Pressione o botão "CODE")
